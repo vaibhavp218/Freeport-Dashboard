@@ -1,0 +1,1759 @@
+<FRAME name="Material Evaluation Screen 13" size="1440x1024" bg="rgba(10, 10, 10, 1.00)">
+  <FRAME name="Frame 1171280521" size="1440x1024">
+    <FRAME name="Frame 1171280467" size="76x1024" bg="rgba(27, 27, 27, 1.00)">
+      <FRAME name="Frame 1171280466" size="36x897">
+        <FRAME name="Frame 1171280464" size="36x60">
+          <RECTANGLE name="image 1474" size="36x42"></RECTANGLE>
+          <TEXT name="By" size="14x16" bg="rgba(199, 199, 199, 1.00)" font="General Sans Variable 400" size="12px" color="rgba(199, 199, 199, 1.00)">
+            "By"
+          </TEXT>
+          <GROUP name="Group 1429" size="13x14">
+            <VECTOR name="Vector" size="3x11" bg="rgba(46, 205, 192, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="8x6" bg="rgba(87, 213, 194, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="3x1" bg="rgba(46, 205, 192, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="3x11" bg="rgba(46, 205, 192, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="8x6" bg="rgba(87, 213, 194, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="3x1" bg="rgba(46, 205, 192, 1.00)"></VECTOR>
+          </GROUP>
+        </FRAME>
+        <FRAME name="Frame 1171280465" size="36x815">
+          <FRAME name="Frame 1497" size="36x34" bg="rgba(0, 123, 107, 1.00)">
+            <FRAME name="fi_18214611" size="20x20">
+              <VECTOR name="Vector" size="19x19" bg="rgba(255, 255, 255, 1.00)"></VECTOR>
+            </FRAME>
+          </FRAME>
+          <FRAME name="fi_18513834" size="21x21">
+            <VECTOR name="Vector" size="19x19" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+          </FRAME>
+          <FRAME name="fi_15867159" size="20x20">
+            <GROUP name="Group" size="19x19">
+              <VECTOR name="Vector" size="6x1" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="19x16" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            </GROUP>
+          </FRAME>
+          <FRAME name="fi_17773059" size="20x20">
+            <VECTOR name="Vector" size="12x14" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="12x14" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+          </FRAME>
+          <FRAME name="fi_18381845" size="20x20">
+            <VECTOR name="Vector" size="19x13" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="7x2" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="7x2" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="7x2" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="7x2" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+          </FRAME>
+          <FRAME name="fi_18110473" size="20x20">
+            <VECTOR name="Vector" size="11x4" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="11x4" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="11x4" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="11x5" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="7x12" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+          </FRAME>
+          <FRAME name="fi_17711888" size="20x20">
+            <GROUP name="Group" size="19x19">
+              <VECTOR name="Vector" size="3x3" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="9x9" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="15x19" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            </GROUP>
+          </FRAME>
+          <FRAME name="fi_15866953" size="20x20">
+            <GROUP name="Group" size="16x19">
+              <VECTOR name="Vector" size="16x19" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="5x5" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="4x3" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            </GROUP>
+          </FRAME>
+          <FRAME name="fi_16785008" size="20x20">
+            <VECTOR name="Vector" size="19x17" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+          </FRAME>
+          <FRAME name="fi_16904591" size="20x20">
+            <VECTOR name="Vector" size="16x10" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="8x13" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="8x13" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+          </FRAME>
+          <FRAME name="fi_17378751" size="20x20">
+            <VECTOR name="Vector" size="16x19" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+          </FRAME>
+          <FRAME name="fi_15889191" size="20x20">
+            <GROUP name="Group" size="19x19">
+              <VECTOR name="Vector" size="19x19" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="12x12" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+            </GROUP>
+          </FRAME>
+          <FRAME name="fi_18432729" size="20x20">
+            <VECTOR name="Vector" size="19x19" bg="rgba(192, 192, 192, 1.00)"></VECTOR>
+          </FRAME>
+        </FRAME>
+      </FRAME>
+    </FRAME>
+    <FRAME name="Frame 1171280471" size="1364x51" bg="rgba(27, 27, 27, 1.00)">
+      <FRAME name="Frame 1171280470" size="1322x18">
+        <FRAME name="Frame 1171280468" size="356x18">
+          <TEXT name="Dashboard" size="68x18" bg="rgba(168, 168, 168, 1.00)" font="IBM Plex Sans 300" size="14px" color="rgba(168, 168, 168, 1.00)">
+            "Dashboard"
+          </TEXT>
+          <FRAME name="fi_271228" size="12x12">
+            <GROUP name="Group" size="7x12">
+              <GROUP name="Group" size="7x12">
+                <VECTOR name="Vector" size="7x12" bg="rgba(180, 180, 180, 1.00)"></VECTOR>
+              </GROUP>
+            </GROUP>
+          </FRAME>
+          <TEXT name="Material Evaluation" size="119x18" bg="rgba(168, 168, 168, 1.00)" font="IBM Plex Sans 300" size="14px" color="rgba(168, 168, 168, 1.00)">
+            "Material Evaluation"
+          </TEXT>
+          <FRAME name="fi_271228" size="12x12">
+            <GROUP name="Group" size="7x12">
+              <GROUP name="Group" size="7x12">
+                <VECTOR name="Vector" size="7x12" bg="rgba(180, 180, 180, 1.00)"></VECTOR>
+              </GROUP>
+            </GROUP>
+          </FRAME>
+          <TEXT name="40111254101" size="93x18" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 400" size="14px" color="rgba(231, 231, 231, 1.00)">
+            "40111254101"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280469" size="116x16">
+          <FRAME name="fi_16341545" size="16x16">
+            <VECTOR name="Vector" size="15x15" bg="rgba(182, 182, 182, 1.00)"></VECTOR>
+          </FRAME>
+          <FRAME name="brightness (1) 1" size="16x16">
+            <VECTOR name="Vector" size="15x15" bg="rgba(182, 182, 182, 1.00)"></VECTOR>
+          </FRAME>
+          <FRAME name="fi_16784292" size="16x16">
+            <VECTOR name="Vector" size="15x14" bg="rgba(182, 182, 182, 1.00)"></VECTOR>
+          </FRAME>
+        </FRAME>
+      </FRAME>
+    </FRAME>
+  </FRAME>
+  <FRAME name="Frame 1171280522" size="2126x915">
+    <FRAME name="Frame 1171280518" size="1327x391">
+      <FRAME name="Frame 1171280517" size="421x391">
+        <FRAME name="Frame 1171280472" size="247x23">
+          <FRAME name="Frame 1171280296" size="106x20" bg="rgba(28, 28, 28, 1.00)">
+            <TEXT name="MDG REQUEST NO" size="98x16" bg="rgba(255, 255, 255, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(255, 255, 255, 1.00)">
+              "MDG REQUEST NO"
+            </TEXT>
+          </FRAME>
+          <TEXT name="REQ011254101" size="133x23" bg="rgba(212, 212, 212, 1.00)" font="IBM Plex Sans 600" size="18px" color="rgba(212, 212, 212, 1.00)">
+            "REQ011254101"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280486" size="421x360" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280485" size="343x16">
+            <TEXT name="Material Short Desc." size="105x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Material Short Desc."
+            </TEXT>
+            <TEXT name="R2900JLK CAT LOADER LD-710919" size="189x16" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="12px" color="rgba(231, 231, 231, 1.00)">
+              "R2900JLK CAT LOADER LD-710919"
+            </TEXT>
+          </FRAME>
+          <FRAME name="Frame 1171280473" size="272x16">
+            <TEXT name="Unit Price ($)" size="68x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Unit Price ($)"
+            </TEXT>
+            <TEXT name="$5,212" size="118x16" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="12px" color="rgba(231, 231, 231, 1.00)">
+              "$5,212"
+            </TEXT>
+          </FRAME>
+          <FRAME name="Frame 1171280474" size="186x16">
+            <TEXT name="Set Size (Qty)" size="70x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Set Size (Qty)"
+            </TEXT>
+            <TEXT name="5,820" size="32x16" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="12px" color="rgba(231, 231, 231, 1.00)">
+              "5,820"
+            </TEXT>
+          </FRAME>
+          <FRAME name="Frame 1171280475" size="272x16">
+            <TEXT name="Planned Delivery Days" size="116x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Planned Delivery Days"
+            </TEXT>
+            <TEXT name="35 Days" size="118x16" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="12px" color="rgba(231, 231, 231, 1.00)">
+              "35 Days"
+            </TEXT>
+          </FRAME>
+          <FRAME name="Frame 1171280476" size="162x16">
+            <TEXT name="Criticality" size="49x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Criticality"
+            </TEXT>
+            <TEXT name="C" size="8x16" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="12px" color="rgba(231, 231, 231, 1.00)">
+              "C"
+            </TEXT>
+          </FRAME>
+          <FRAME name="Frame 1171280478" size="193x18">
+            <TEXT name="Equipment" size="57x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Equipment"
+            </TEXT>
+            <FRAME name="Frame 1171280477" size="39x18">
+              <TEXT name="10" size="15x16" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="12px" color="rgba(231, 231, 231, 1.00)">
+                "10"
+              </TEXT>
+              <GROUP name="Group 1534" size="19x18">
+                <GROUP name="Group 1589" size="19x18">
+                  <RECTANGLE name="Rectangle 355" size="19x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+                  <FRAME name="fi_7268615" size="10x10">
+                    <GROUP name="Group" size="10x10">
+                      <GROUP name="Group" size="10x10">
+                        <GROUP name="Group" size="10x10">
+                          <GROUP name="Group" size="10x10">
+                            <VECTOR name="Vector" size="10x10" bg="rgba(67, 129, 252, 1.00)"></VECTOR>
+                          </GROUP>
+                        </GROUP>
+                      </GROUP>
+                    </GROUP>
+                  </FRAME>
+                </GROUP>
+              </GROUP>
+            </FRAME>
+          </FRAME>
+          <FRAME name="Frame 1171280479" size="324x16">
+            <TEXT name="Material Long Desc." size="101x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Material Long Desc."
+            </TEXT>
+            <TEXT name="FILTER TYPE:GP ADDITIONAL..." size="170x16" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="12px" color="rgba(231, 231, 231, 1.00)">
+              "FILTER TYPE:GP ADDITIONAL..."
+            </TEXT>
+          </FRAME>
+          <FRAME name="Frame 1171280480" size="272x16">
+            <TEXT name="Manufacturer Part Number" size="139x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Manufacturer Part Number"
+            </TEXT>
+            <TEXT name="PKB-uubb-4427" size="118x16" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="12px" color="rgba(231, 231, 231, 1.00)">
+              "PKB-uubb-4427"
+            </TEXT>
+          </FRAME>
+          <FRAME name="Frame 1171280481" size="255x16">
+            <TEXT name="Manufacturer" size="70x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Manufacturer"
+            </TEXT>
+            <TEXT name="Hiveless Indonesia" size="101x16" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="12px" color="rgba(231, 231, 231, 1.00)">
+              "Hiveless Indonesia"
+            </TEXT>
+          </FRAME>
+          <FRAME name="Frame 1171280482" size="346x16">
+            <TEXT name="Vendor" size="38x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Vendor"
+            </TEXT>
+            <TEXT name="Indonesia Metallurgical Traders Pte." size="265x16" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="12px" color="rgba(231, 231, 231, 1.00)">
+              "Indonesia Metallurgical Traders Pte."
+            </TEXT>
+          </FRAME>
+          <FRAME name="Frame 1171280483" size="266x16">
+            <TEXT name="Functional Location" size="101x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Functional Location"
+            </TEXT>
+            <TEXT name="Grasberg Block Cave" size="265x16" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="12px" color="rgba(231, 231, 231, 1.00)">
+              "Grasberg Block Cave"
+            </TEXT>
+          </FRAME>
+          <FRAME name="Frame 1171280484" size="384x16">
+            <TEXT name="Comments" size="57x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Comments"
+            </TEXT>
+            <TEXT name="We need to expedite this order immediately" size="230x16" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="12px" color="rgba(231, 231, 231, 1.00)">
+              "We need to expedite this order immediately"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+      </FRAME>
+      <FRAME name="Frame 1606" size="403x360">
+        <GROUP name="Group 1568" size="403x360">
+          <RECTANGLE name="Rectangle 353" size="403x360" bg="rgba(22, 22, 22, 1.00)"></RECTANGLE>
+          <RECTANGLE name="Rectangle 354" size="403x37"></RECTANGLE>
+        </GROUP>
+        <FRAME name="Frame 1171280506" size="357x315">
+          <FRAME name="Frame 1171280487" size="216x16">
+            <TEXT name="Material Category" size="92x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Material Category"
+            </TEXT>
+            <TEXT name="Slow Moving" size="67x16" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="12px" color="rgba(231, 231, 231, 1.00)">
+              "Slow Moving"
+            </TEXT>
+          </FRAME>
+          <FRAME name="Frame 1171280488" size="158x16">
+            <TEXT name="Material Criticality (User)" size="128x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Material Criticality (User)"
+            </TEXT>
+            <TEXT name="D" size="9x16" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="12px" color="rgba(231, 231, 231, 1.00)">
+              "D"
+            </TEXT>
+          </FRAME>
+          <FRAME name="Frame 1171280489" size="282x20">
+            <TEXT name="Model Recommendation" size="127x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Model Recommendation"
+            </TEXT>
+            <FRAME name="Component 46" size="135x20">
+              <RECTANGLE name="Rectangle 383" size="156x104" bg="rgba(29, 29, 29, 1.00)"></RECTANGLE>
+              <FRAME name="Frame 1171280369" size="135x18" bg="rgba(0, 33, 57, 1.00)">
+                <TEXT name="order as required" size="111x14" bg="rgba(26, 125, 255, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(26, 125, 255, 1.00)">
+                  "order as required"
+                </TEXT>
+              </FRAME>
+              <GROUP name="Group 1586" size="0x0">
+                <RECTANGLE name="Rectangle 356" size="22x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+              </GROUP>
+              <VECTOR name="Vector" size="11x6" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+              <INSTANCE name="ri:arrow-up-s-line" size="20x20">
+                <VECTOR name="Vector" size="11x6" bg="rgba(15, 32, 68, 1.00)"></VECTOR>
+              </INSTANCE>
+            </FRAME>
+          </FRAME>
+          <FRAME name="Frame 1171280490" size="303x19">
+            <TEXT name="Final Decision" size="72x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Final Decision"
+            </TEXT>
+            <FRAME name="Component 47" size="156x19">
+              <RECTANGLE name="Rectangle 383" size="156x104" bg="rgba(29, 29, 29, 1.00)"></RECTANGLE>
+              <FRAME name="Frame 1171280369" size="135x18" bg="rgba(0, 33, 57, 1.00)">
+                <TEXT name="order as required" size="111x14" bg="rgba(26, 125, 255, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(26, 125, 255, 1.00)">
+                  "order as required"
+                </TEXT>
+              </FRAME>
+              <GROUP name="Group 1586" size="22x18">
+                <RECTANGLE name="Rectangle 356" size="22x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+              </GROUP>
+              <VECTOR name="Vector" size="11x6" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+              <INSTANCE name="ri:arrow-up-s-line" size="20x20">
+                <VECTOR name="Vector" size="11x6" bg="rgba(15, 32, 68, 1.00)"></VECTOR>
+              </INSTANCE>
+            </FRAME>
+          </FRAME>
+          <FRAME name="Frame" size="357x49">
+            <FRAME name="Frame 1171280495" size="78x16">
+              <VECTOR name="Vector" size="14x14" bg="rgba(0, 110, 255, 1.00)"></VECTOR>
+              <TEXT name="User Input" size="56x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+                "User Input"
+              </TEXT>
+            </FRAME>
+            <FRAME name="Frame 1171280496" size="221x49">
+              <FRAME name="Frame 1171280494" size="99x49">
+                <TEXT name="ROP" size="99x16" bg="rgba(238, 238, 238, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(238, 238, 238, 1.00)">
+                  "ROP"
+                </TEXT>
+                <FRAME name="Frame 1171280491" size="99x26" bg="rgba(13, 13, 13, 1.00)">
+                  <TEXT name="0" size="9x18" bg="rgba(165, 165, 165, 1.00)" font="IBM Plex Sans 400" size="14px" color="rgba(165, 165, 165, 1.00)">
+                    "0"
+                  </TEXT>
+                </FRAME>
+              </FRAME>
+              <FRAME name="Frame 1171280493" size="99x49">
+                <TEXT name="MAX" size="99x16" bg="rgba(238, 238, 238, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(238, 238, 238, 1.00)">
+                  "MAX"
+                </TEXT>
+                <FRAME name="Frame 1171280492" size="99x26" bg="rgba(13, 13, 13, 1.00)">
+                  <TEXT name="0" size="9x18" bg="rgba(165, 165, 165, 1.00)" font="IBM Plex Sans 400" size="14px" color="rgba(165, 165, 165, 1.00)">
+                    "0"
+                  </TEXT>
+                </FRAME>
+              </FRAME>
+            </FRAME>
+          </FRAME>
+          <FRAME name="Frame 1171280498" size="316x18">
+            <FRAME name="Frame 1171280497" size="112x16">
+              <VECTOR name="Vector" size="14x14" bg="rgba(0, 110, 255, 1.00)"></VECTOR>
+              <TEXT name="Model Suggested" size="90x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+                "Model Suggested"
+              </TEXT>
+            </FRAME>
+            <TEXT name="445" size="45x18" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="14px" color="rgba(231, 231, 231, 1.00)">
+              "445"
+            </TEXT>
+            <TEXT name="5,441" size="37x18" bg="rgba(231, 231, 231, 1.00)" font="IBM Plex Sans 500" size="14px" color="rgba(231, 231, 231, 1.00)">
+              "5,441"
+            </TEXT>
+          </FRAME>
+          <FRAME name="Frame 1171280503" size="357x26">
+            <FRAME name="Frame 1171280499" size="71x16">
+              <VECTOR name="Vector" size="14x14" bg="rgba(0, 110, 255, 1.00)"></VECTOR>
+              <TEXT name="Alternate" size="49x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+                "Alternate"
+              </TEXT>
+            </FRAME>
+            <FRAME name="Frame 1171280502" size="208x26">
+              <FRAME name="Frame 1171280500" size="92x26" bg="rgba(13, 13, 13, 1.00)">
+                <TEXT name="0" size="9x18" bg="rgba(165, 165, 165, 1.00)" font="IBM Plex Sans 400" size="14px" color="rgba(165, 165, 165, 1.00)">
+                  "0"
+                </TEXT>
+              </FRAME>
+              <FRAME name="Frame 1171280501" size="92x26" bg="rgba(13, 13, 13, 1.00)">
+                <TEXT name="0" size="9x18" bg="rgba(165, 165, 165, 1.00)" font="IBM Plex Sans 400" size="14px" color="rgba(165, 165, 165, 1.00)">
+                  "0"
+                </TEXT>
+              </FRAME>
+            </FRAME>
+          </FRAME>
+          <FRAME name="Frame 1171280504" size="322x26">
+            <TEXT name="Remark" size="41x16" bg="rgba(203, 203, 203, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(203, 203, 203, 1.00)">
+              "Remark"
+            </TEXT>
+            <RECTANGLE name="Rectangle 357" size="208x26" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+          </FRAME>
+          <FRAME name="Frame 1171280505" size="357x29">
+            <FRAME name="Frame 1171280365" size="103x29" bg="rgba(64, 127, 255, 1.00)">
+              <TEXT name="Accept" size="50x21" bg="rgba(255, 255, 255, 1.00)" font="IBM Plex Sans 500" size="16px" color="rgba(255, 255, 255, 1.00)">
+                "Accept"
+              </TEXT>
+            </FRAME>
+            <FRAME name="Frame 1171280364" size="103x29">
+              <TEXT name="Reset" size="41x21" bg="rgba(64, 127, 255, 1.00)" font="IBM Plex Sans 500" size="16px" color="rgba(64, 127, 255, 1.00)">
+                "Reset"
+              </TEXT>
+            </FRAME>
+            <FRAME name="Frame 1171280344" size="103x29">
+              <TEXT name="Calculate" size="67x21" bg="rgba(64, 127, 255, 1.00)" font="IBM Plex Sans 500" size="16px" color="rgba(64, 127, 255, 1.00)">
+                "Calculate"
+              </TEXT>
+            </FRAME>
+          </FRAME>
+        </FRAME>
+      </FRAME>
+      <FRAME name="Frame 1171280511" size="477x386">
+        <TEXT name="Last Used Data" size="477x21" bg="rgba(212, 212, 212, 1.00)" font="IBM Plex Sans 500" size="16px" color="rgba(212, 212, 212, 1.00)">
+          "Last Used Data"
+        </TEXT>
+        <FRAME name="Frame 1171280512" size="477x360" bg="rgba(22, 22, 22, 1.00)">
+          <RECTANGLE name="Rectangle 351" size="477x1"></RECTANGLE>
+        </FRAME>
+        <FRAME name="Frame 1171280510" size="401x272">
+          <LINE name="Line 197" size="401x0"></LINE>
+          <LINE name="Line 196" size="401x0"></LINE>
+          <LINE name="Line 158" size="401x0"></LINE>
+          <LINE name="Line 157" size="401x0"></LINE>
+          <LINE name="Line 156" size="401x0"></LINE>
+          <LINE name="Line 155" size="401x0"></LINE>
+          <LINE name="Line 154" size="401x0"></LINE>
+          <LINE name="Line 153" size="401x0"></LINE>
+          <LINE name="Line 139" size="401x0"></LINE>
+        </FRAME>
+        <LINE name="Line 138" size="0x286"></LINE>
+        <FRAME name="Frame 1171280509" size="366x254">
+          <RECTANGLE name="Rectangle 293" size="33x214" bg="rgba(0, 73, 168, 1.00)"></RECTANGLE>
+          <RECTANGLE name="Rectangle 294" size="33x192" bg="rgba(0, 73, 168, 1.00)"></RECTANGLE>
+          <RECTANGLE name="Rectangle 295" size="33x118" bg="rgba(0, 73, 168, 1.00)"></RECTANGLE>
+          <RECTANGLE name="Rectangle 296" size="33x91" bg="rgba(0, 73, 168, 1.00)"></RECTANGLE>
+          <RECTANGLE name="Rectangle 297" size="33x254" bg="rgba(0, 73, 168, 1.00)"></RECTANGLE>
+          <RECTANGLE name="Rectangle 298" size="33x33" bg="rgba(0, 73, 168, 1.00)"></RECTANGLE>
+        </FRAME>
+        <FRAME name="Frame 1171280508" size="365x13">
+          <TEXT name="April’25" size="35x13" bg="rgba(187, 187, 187, 1.00)" font="IBM Plex Sans 400" size="10.03870964050293px" color="rgba(187, 187, 187, 1.00)">
+            "April’25"
+          </TEXT>
+          <TEXT name="May’25" size="33x13" bg="rgba(187, 187, 187, 1.00)" font="IBM Plex Sans 400" size="10.03870964050293px" color="rgba(187, 187, 187, 1.00)">
+            "May’25"
+          </TEXT>
+          <TEXT name="June’25" size="36x13" bg="rgba(187, 187, 187, 1.00)" font="IBM Plex Sans 400" size="10.03870964050293px" color="rgba(187, 187, 187, 1.00)">
+            "June’25"
+          </TEXT>
+          <TEXT name="July’25" size="33x13" bg="rgba(187, 187, 187, 1.00)" font="IBM Plex Sans 400" size="10.03870964050293px" color="rgba(187, 187, 187, 1.00)">
+            "July’25"
+          </TEXT>
+          <TEXT name="Aug’25" size="32x13" bg="rgba(187, 187, 187, 1.00)" font="IBM Plex Sans 400" size="10.03870964050293px" color="rgba(187, 187, 187, 1.00)">
+            "Aug’25"
+          </TEXT>
+          <TEXT name="Sep’25" size="31x13" bg="rgba(187, 187, 187, 1.00)" font="IBM Plex Sans 400" size="10.03870964050293px" color="rgba(187, 187, 187, 1.00)">
+            "Sep’25"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280507" size="24x248">
+          <TEXT name="1600" size="24x13" bg="rgba(187, 187, 187, 1.00)" font="IBM Plex Sans 400" size="10.03870964050293px" color="rgba(187, 187, 187, 1.00)">
+            "1600"
+          </TEXT>
+          <TEXT name="1500" size="24x13" bg="rgba(187, 187, 187, 1.00)" font="IBM Plex Sans 400" size="10.03870964050293px" color="rgba(187, 187, 187, 1.00)">
+            "1500"
+          </TEXT>
+          <TEXT name="1400" size="24x13" bg="rgba(187, 187, 187, 1.00)" font="IBM Plex Sans 400" size="10.03870964050293px" color="rgba(187, 187, 187, 1.00)">
+            "1400"
+          </TEXT>
+          <TEXT name="1300" size="24x13" bg="rgba(187, 187, 187, 1.00)" font="IBM Plex Sans 400" size="10.03870964050293px" color="rgba(187, 187, 187, 1.00)">
+            "1300"
+          </TEXT>
+          <TEXT name="1200" size="24x13" bg="rgba(187, 187, 187, 1.00)" font="IBM Plex Sans 400" size="10.03870964050293px" color="rgba(187, 187, 187, 1.00)">
+            "1200"
+          </TEXT>
+          <TEXT name="1100" size="24x13" bg="rgba(187, 187, 187, 1.00)" font="IBM Plex Sans 400" size="10.03870964050293px" color="rgba(187, 187, 187, 1.00)">
+            "1100"
+          </TEXT>
+        </FRAME>
+      </FRAME>
+    </FRAME>
+    <FRAME name="Frame 1171280519" size="2126x246">
+      <FRAME name="Frame 1171280513" size="189x22">
+        <TEXT name="Potential Duplicates" size="149x21" bg="rgba(212, 212, 212, 1.00)" font="IBM Plex Sans 500" size="16.1281681060791px" color="rgba(212, 212, 212, 1.00)">
+          "Potential Duplicates"
+        </TEXT>
+        <FRAME name="Frame 1171280289" size="23x22" bg="rgba(28, 28, 28, 1.00)">
+          <TEXT name="17" size="15x16" bg="rgba(255, 255, 255, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(255, 255, 255, 1.00)">
+            "17"
+          </TEXT>
+        </FRAME>
+      </FRAME>
+      <FRAME name="Frame 1171280514" size="261x22">
+        <INSTANCE name="Component 11" size="63x22" bg="rgba(13, 13, 13, 1.00)">
+          <FRAME name="fi_16703545" size="13x13">
+            <VECTOR name="Vector" size="12x12" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+          </FRAME>
+          <TEXT name="Filter" size="27x16" bg="rgba(113, 113, 113, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(113, 113, 113, 1.00)">
+            "Filter"
+          </TEXT>
+        </INSTANCE>
+        <INSTANCE name="Component 20" size="63x22" bg="rgba(13, 13, 13, 1.00)">
+          <INSTANCE name="mdi:sort" size="13x13">
+            <VECTOR name="Vector" size="11x10" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+          </INSTANCE>
+          <TEXT name="Filter" size="38x16" bg="rgba(113, 113, 113, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(113, 113, 113, 1.00)">
+            "Sort By"
+          </TEXT>
+        </INSTANCE>
+        <INSTANCE name="Component 13" size="86x22" bg="rgba(13, 13, 13, 1.00)">
+          <FRAME name="fi_3793594" size="12x12">
+            <VECTOR name="Vector" size="2x2" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="2x2" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="2x2" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="2x2" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="2x2" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="2x2" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+          </FRAME>
+          <TEXT name="Edit table" size="50x16" bg="rgba(113, 113, 113, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(113, 113, 113, 1.00)">
+            "Edit table"
+          </TEXT>
+        </INSTANCE>
+        <INSTANCE name="Component 12" size="22x22">
+          <RECTANGLE name="Rectangle 213" size="22x22" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+          <FRAME name="fi_18110198" size="12x12">
+            <VECTOR name="Vector" size="11x4" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="6x9" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+          </FRAME>
+        </INSTANCE>
+      </FRAME>
+      <FRAME name="Desktop - 1" size="2126x209" bg="rgba(255, 255, 255, 1.00)">
+        <FRAME name="Frame 1171280376" size="55x64" bg="rgba(14, 29, 28, 1.00)">
+          <INSTANCE name="Checkbox" size="16x16">
+            <INSTANCE name="Checkbox" size="16x16"></INSTANCE>
+          </INSTANCE>
+        </FRAME>
+        <FRAME name="Frame 1171280377" size="62x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="51x14">
+            <TEXT name="MAT Code" size="51x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "MAT Code"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280378" size="55x64" bg="rgba(14, 29, 28, 1.00)">
+          <TEXT name="S.No" size="24x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+            "S.No"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280380" size="72x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="63x14">
+            <TEXT name="Unit Price($)" size="63x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Unit Price($)"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280381" size="158x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="52x14">
+            <TEXT name="Long Desc" size="52x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Long Desc"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280382" size="114x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="78x28">
+            <TEXT name="Manufacturer & Part Number" size="78x28" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Manufacturer & Part Number"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280383" size="77x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="78x28">
+            <TEXT name="Linked Equipments" size="78x28" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Linked Equipments"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280384" size="127x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="132x28">
+            <TEXT name="Linked Functional location" size="132x28" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Linked Functional location"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280385" size="73x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="64x28">
+            <TEXT name="Annual Usage" size="64x28" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Annual Usage"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280386" size="87x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="78x28">
+            <TEXT name="Movement Status" size="78x28" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Movement Status"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280387" size="73x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="64x28">
+            <TEXT name="Potential Obsolete" size="64x28" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Potential Obsolete"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280388" size="120x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="64x14">
+            <TEXT name="Created On" size="64x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Created On"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280389" size="123x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="Last Issuance Date" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Last Issuance Date"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280390" size="86x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="Current SOH" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Current SOH"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280391" size="102x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="Inventory Value" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Inventory Value"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280392" size="93x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="Current Transit" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Current Transit"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280393" size="80x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="Current PO" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Current PO"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280394" size="64x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="ROP" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "ROP"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280395" size="63x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="MAX" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "MAX"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280396" size="82x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="Is Duplicate" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Is Duplicate"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280397" size="208x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="Remarks" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Remarks"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280398" size="55x47" bg="rgba(22, 22, 22, 1.00)">
+          <INSTANCE name="Checkbox" size="16x16">
+            <INSTANCE name="Checkbox" size="16x16"></INSTANCE>
+          </INSTANCE>
+        </FRAME>
+        <FRAME name="Frame 1171280399" size="55x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="1" size="7x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+            "1"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280400" size="62x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="40749189" size="53x14" bg="rgba(20, 99, 255, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(20, 99, 255, 1.00)">
+            "40749189"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280402" size="152x64">
+          <FRAME name="Frame 1171280379" size="152x70" bg="rgba(14, 29, 28, 1.00)">
+            <FRAME name="Frame 1171280379" size="80x28">
+              <TEXT name="Material Description" size="80x28" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+                "Material Description"
+              </TEXT>
+            </FRAME>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280401" size="152x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FILTER;GP,DSL PRTCLTE" size="123x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FILTER;GP,DSL PRTCLTE"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280403" size="158x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FILTER;GP,DSL PRTCLTE" size="123x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FILTER;GP,DSL PRTCLTE"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280405" size="114x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="CATERPILLAR 5357856M" size="72x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "CATERPILLAR 5357856M"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280406" size="77x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="10" size="14x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 400" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "10"
+          </TEXT>
+          <GROUP name="Group 1534" size="19x18">
+            <RECTANGLE name="Rectangle 355" size="19x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+            <FRAME name="fi_7268615" size="10x10">
+              <GROUP name="Group" size="10x10">
+                <GROUP name="Group" size="10x10">
+                  <GROUP name="Group" size="10x10">
+                    <GROUP name="Group" size="10x10">
+                      <VECTOR name="Vector" size="10x10" bg="rgba(20, 99, 255, 1.00)"></VECTOR>
+                    </GROUP>
+                  </GROUP>
+                </GROUP>
+              </GROUP>
+            </FRAME>
+          </GROUP>
+        </FRAME>
+        <FRAME name="Frame 1171280407" size="127x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FI-MOEQ-KLDE-L OR2900" size="88x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FI-MOEQ-KLDE-L OR2900"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280407" size="87x47" bg="rgba(22, 22, 22, 1.00)">
+          <INSTANCE name="Component 50" size="53x18" bg="rgba(0, 81, 38, 1.00)">
+            <TEXT name="MEDIUM" size="45x14" bg="rgba(0, 180, 84, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(0, 180, 84, 1.00)">
+              "MEDIUM"
+            </TEXT>
+          </INSTANCE>
+        </FRAME>
+        <FRAME name="Frame 1171280408" size="73x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="7,845" size="30x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "7,845"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280409" size="73x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="Yes" size="18x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "Yes"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280410" size="120x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="64x28">
+            <TEXT name="23-03-2024 00:00:00" size="64x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "23-03-2024  00:00:00"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280411" size="123x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="64x28">
+            <TEXT name="27-08-2024 00:00:00" size="64x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "27-08-2024  00:00:00"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280412" size="86x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="1" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "1"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280413" size="102x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="50x14">
+            <TEXT name="$112,521" size="50x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "$112,521"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280414" size="93x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="0" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "0"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280415" size="80x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="0" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "0"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280416" size="64x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="20x14">
+            <TEXT name="845" size="20x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "845"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280417" size="82x47" bg="rgba(22, 22, 22, 1.00)">
+          <GROUP name="Group 1537" size="30x18">
+            <RECTANGLE name="Rectangle 355" size="30x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+            <GROUP name="Group" size="15x3">
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+            </GROUP>
+          </GROUP>
+        </FRAME>
+        <FRAME name="Frame 1171280419" size="208x47" bg="rgba(22, 22, 22, 1.00)">
+          <RECTANGLE name="Rectangle 337" size="151x23" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+        </FRAME>
+        <FRAME name="Frame 1171280418" size="63x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="20x14">
+            <TEXT name="845" size="20x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "845"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280404" size="72x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="18649.27" size="50x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "18649.27"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280420" size="55x48" bg="rgba(22, 22, 22, 1.00)">
+          <INSTANCE name="Checkbox" size="16x16">
+            <INSTANCE name="Checkbox" size="16x16"></INSTANCE>
+          </INSTANCE>
+        </FRAME>
+        <FRAME name="Frame 1171280421" size="55x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="2" size="7x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+            "2"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280422" size="62x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="40749189" size="53x14" bg="rgba(20, 99, 255, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(20, 99, 255, 1.00)">
+            "40749189"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280423" size="152x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FILTER;GP,DSL PRTCLTE" size="123x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FILTER;GP,DSL PRTCLTE"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280424" size="158x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FILTER;GP,DSL PRTCLTE" size="123x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FILTER;GP,DSL PRTCLTE"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280425" size="72x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="18649.27" size="50x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "18649.27"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280426" size="114x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="CATERPILLAR 5357856M" size="72x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "CATERPILLAR 5357856M"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280427" size="77x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="10" size="14x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 400" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "10"
+          </TEXT>
+          <GROUP name="Group 1534" size="19x18">
+            <RECTANGLE name="Rectangle 355" size="19x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+            <FRAME name="fi_7268615" size="10x10">
+              <GROUP name="Group" size="10x10">
+                <GROUP name="Group" size="10x10">
+                  <GROUP name="Group" size="10x10">
+                    <GROUP name="Group" size="10x10">
+                      <VECTOR name="Vector" size="10x10" bg="rgba(20, 99, 255, 1.00)"></VECTOR>
+                    </GROUP>
+                  </GROUP>
+                </GROUP>
+              </GROUP>
+            </FRAME>
+          </GROUP>
+        </FRAME>
+        <FRAME name="Frame 1171280428" size="127x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FI-MOEQ-KLDE-L OR2900" size="88x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FI-MOEQ-KLDE-L OR2900"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280429" size="87x48" bg="rgba(22, 22, 22, 1.00)">
+          <INSTANCE name="Component 50" size="53x18" bg="rgba(55, 0, 0, 1.00)">
+            <TEXT name="High" size="29x14" bg="rgba(255, 76, 76, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(255, 76, 76, 1.00)">
+              "High"
+            </TEXT>
+          </INSTANCE>
+        </FRAME>
+        <FRAME name="Frame 1171280430" size="73x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="7,845" size="30x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "7,845"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280431" size="73x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="Yes" size="18x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "Yes"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280432" size="120x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="64x28">
+            <TEXT name="23-03-2024 00:00:00" size="64x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "23-03-2024  00:00:00"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280433" size="123x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="64x28">
+            <TEXT name="27-08-2024 00:00:00" size="64x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "27-08-2024  00:00:00"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280434" size="86x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="1" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "1"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280435" size="102x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="50x14">
+            <TEXT name="$112,521" size="50x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "$112,521"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280436" size="93x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="0" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "0"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280437" size="80x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="0" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "0"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280438" size="64x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="20x14">
+            <TEXT name="845" size="20x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "845"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280439" size="63x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="20x14">
+            <TEXT name="845" size="20x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "845"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280440" size="82x48" bg="rgba(22, 22, 22, 1.00)">
+          <GROUP name="Group 1537" size="30x18">
+            <RECTANGLE name="Rectangle 355" size="30x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+            <GROUP name="Group" size="15x3">
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+            </GROUP>
+          </GROUP>
+        </FRAME>
+        <FRAME name="Frame 1171280441" size="208x48" bg="rgba(22, 22, 22, 1.00)">
+          <RECTANGLE name="Rectangle 337" size="151x23" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+        </FRAME>
+        <FRAME name="Frame 1171280442" size="55x50" bg="rgba(22, 22, 22, 1.00)">
+          <INSTANCE name="Checkbox" size="16x16">
+            <INSTANCE name="Checkbox" size="16x16"></INSTANCE>
+          </INSTANCE>
+        </FRAME>
+        <FRAME name="Frame 1171280443" size="55x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="3" size="7x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+            "3"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280444" size="62x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="40749189" size="53x14" bg="rgba(20, 99, 255, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(20, 99, 255, 1.00)">
+            "40749189"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280445" size="152x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FILTER;GP,DSL PRTCLTE" size="123x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FILTER;GP,DSL PRTCLTE"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280446" size="158x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FILTER;GP,DSL PRTCLTE" size="123x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FILTER;GP,DSL PRTCLTE"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280447" size="72x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="18649.27" size="50x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "18649.27"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280448" size="114x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="CATERPILLAR 5357856M" size="72x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "CATERPILLAR 5357856M"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280450" size="127x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FI-MOEQ-KLDE-L OR2900" size="88x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FI-MOEQ-KLDE-L OR2900"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280451" size="87x50" bg="rgba(22, 22, 22, 1.00)">
+          <INSTANCE name="Component 50" size="53x18" bg="rgba(55, 0, 0, 1.00)">
+            <TEXT name="High" size="29x14" bg="rgba(255, 76, 76, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(255, 76, 76, 1.00)">
+              "High"
+            </TEXT>
+          </INSTANCE>
+        </FRAME>
+        <FRAME name="Frame 1171280452" size="73x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="7,845" size="30x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "7,845"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280453" size="73x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="Yes" size="18x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "Yes"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280454" size="120x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="64x28">
+            <TEXT name="23-03-2024 00:00:00" size="64x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "23-03-2024  00:00:00"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280455" size="123x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="64x28">
+            <TEXT name="27-08-2024 00:00:00" size="64x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "27-08-2024  00:00:00"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280456" size="86x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="1" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "1"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280457" size="102x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="50x14">
+            <TEXT name="$112,521" size="50x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "$112,521"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280458" size="93x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="0" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "0"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280459" size="80x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="0" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "0"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280460" size="64x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="20x14">
+            <TEXT name="845" size="20x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "845"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280461" size="63x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="20x14">
+            <TEXT name="845" size="20x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "845"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280462" size="82x50" bg="rgba(22, 22, 22, 1.00)">
+          <GROUP name="Group 1537" size="30x18">
+            <RECTANGLE name="Rectangle 355" size="30x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+            <GROUP name="Group" size="15x3">
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+            </GROUP>
+          </GROUP>
+        </FRAME>
+        <FRAME name="Frame 1171280463" size="208x50" bg="rgba(22, 22, 22, 1.00)">
+          <RECTANGLE name="Rectangle 337" size="151x23" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+        </FRAME>
+        <FRAME name="Frame 1171280449" size="77x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="10" size="14x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 400" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "10"
+          </TEXT>
+          <GROUP name="Group 1534" size="19x18">
+            <RECTANGLE name="Rectangle 355" size="19x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+            <FRAME name="fi_7268615" size="10x10">
+              <GROUP name="Group" size="10x10">
+                <GROUP name="Group" size="10x10">
+                  <GROUP name="Group" size="10x10">
+                    <GROUP name="Group" size="10x10">
+                      <VECTOR name="Vector" size="10x10" bg="rgba(20, 99, 255, 1.00)"></VECTOR>
+                    </GROUP>
+                  </GROUP>
+                </GROUP>
+              </GROUP>
+            </FRAME>
+          </GROUP>
+        </FRAME>
+      </FRAME>
+    </FRAME>
+    <FRAME name="Frame 1171280520" size="2126x246">
+      <FRAME name="Frame 1171280515" size="294x22">
+        <TEXT name="Similar Material - Equipment Links" size="254x21" bg="rgba(212, 212, 212, 1.00)" font="IBM Plex Sans 500" size="16.1281681060791px" color="rgba(212, 212, 212, 1.00)">
+          "Similar Material - Equipment Links"
+        </TEXT>
+        <FRAME name="Frame 1171280289" size="23x22" bg="rgba(28, 28, 28, 1.00)">
+          <TEXT name="17" size="15x16" bg="rgba(255, 255, 255, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(255, 255, 255, 1.00)">
+            "17"
+          </TEXT>
+        </FRAME>
+      </FRAME>
+      <FRAME name="Frame 1171280516" size="261x22">
+        <INSTANCE name="Component 11" size="63x22" bg="rgba(13, 13, 13, 1.00)">
+          <FRAME name="fi_16703545" size="13x13">
+            <VECTOR name="Vector" size="12x12" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+          </FRAME>
+          <TEXT name="Filter" size="27x16" bg="rgba(113, 113, 113, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(113, 113, 113, 1.00)">
+            "Filter"
+          </TEXT>
+        </INSTANCE>
+        <INSTANCE name="Component 20" size="63x22" bg="rgba(13, 13, 13, 1.00)">
+          <INSTANCE name="mdi:sort" size="13x13">
+            <VECTOR name="Vector" size="11x10" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+          </INSTANCE>
+          <TEXT name="Filter" size="38x16" bg="rgba(113, 113, 113, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(113, 113, 113, 1.00)">
+            "Sort By"
+          </TEXT>
+        </INSTANCE>
+        <INSTANCE name="Component 13" size="86x22" bg="rgba(13, 13, 13, 1.00)">
+          <FRAME name="fi_3793594" size="12x12">
+            <VECTOR name="Vector" size="2x2" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="2x2" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="2x2" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="2x2" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="2x2" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="2x2" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+          </FRAME>
+          <TEXT name="Edit table" size="50x16" bg="rgba(113, 113, 113, 1.00)" font="IBM Plex Sans 400" size="12px" color="rgba(113, 113, 113, 1.00)">
+            "Edit table"
+          </TEXT>
+        </INSTANCE>
+        <INSTANCE name="Component 12" size="22x22">
+          <RECTANGLE name="Rectangle 213" size="22x22" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+          <FRAME name="fi_18110198" size="12x12">
+            <VECTOR name="Vector" size="11x4" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+            <VECTOR name="Vector" size="6x9" bg="rgba(113, 113, 113, 1.00)"></VECTOR>
+          </FRAME>
+        </INSTANCE>
+      </FRAME>
+      <FRAME name="Desktop - 2" size="2126x209" bg="rgba(255, 255, 255, 1.00)">
+        <FRAME name="Frame 1171280376" size="55x64" bg="rgba(14, 29, 28, 1.00)">
+          <INSTANCE name="Checkbox" size="16x16">
+            <INSTANCE name="Checkbox" size="16x16"></INSTANCE>
+          </INSTANCE>
+        </FRAME>
+        <FRAME name="Frame 1171280377" size="62x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="51x14">
+            <TEXT name="MAT Code" size="51x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "MAT Code"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280378" size="55x64" bg="rgba(14, 29, 28, 1.00)">
+          <TEXT name="S.No" size="24x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+            "S.No"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280380" size="72x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="63x14">
+            <TEXT name="Unit Price($)" size="63x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Unit Price($)"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280381" size="158x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="52x14">
+            <TEXT name="Long Desc" size="52x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Long Desc"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280382" size="114x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="78x28">
+            <TEXT name="Manufacturer & Part Number" size="78x28" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Manufacturer & Part Number"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280383" size="77x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="78x28">
+            <TEXT name="Linked Equipments" size="78x28" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Linked Equipments"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280384" size="127x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="132x28">
+            <TEXT name="Linked Functional location" size="132x28" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Linked Functional location"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280385" size="73x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="64x28">
+            <TEXT name="Annual Usage" size="64x28" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Annual Usage"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280386" size="87x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="78x28">
+            <TEXT name="Movement Status" size="78x28" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Movement Status"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280387" size="73x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="64x28">
+            <TEXT name="Potential Obsolete" size="64x28" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Potential Obsolete"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280388" size="120x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="64x14">
+            <TEXT name="Created On" size="64x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Created On"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280389" size="123x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="Last Issuance Date" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Last Issuance Date"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280390" size="86x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="Current SOH" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Current SOH"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280391" size="102x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="Inventory Value" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Inventory Value"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280392" size="93x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="Current Transit" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Current Transit"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280393" size="80x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="Current PO" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Current PO"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280394" size="64x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="ROP" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "ROP"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280395" size="63x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="MAX" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "MAX"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280396" size="82x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="Is Duplicate" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Is Duplicate"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280397" size="208x64" bg="rgba(14, 29, 28, 1.00)">
+          <FRAME name="Frame 1171280379" size="114x14">
+            <TEXT name="Remarks" size="114x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+              "Remarks"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280398" size="55x47" bg="rgba(22, 22, 22, 1.00)">
+          <INSTANCE name="Checkbox" size="16x16">
+            <INSTANCE name="Checkbox" size="16x16"></INSTANCE>
+          </INSTANCE>
+        </FRAME>
+        <FRAME name="Frame 1171280399" size="55x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="1" size="7x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+            "1"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280400" size="62x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="40749189" size="53x14" bg="rgba(20, 99, 255, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(20, 99, 255, 1.00)">
+            "40749189"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280402" size="152x64">
+          <FRAME name="Frame 1171280379" size="152x70" bg="rgba(14, 29, 28, 1.00)">
+            <FRAME name="Frame 1171280379" size="80x28">
+              <TEXT name="Material Description" size="80x28" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+                "Material Description"
+              </TEXT>
+            </FRAME>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280401" size="152x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FILTER;GP,DSL PRTCLTE" size="123x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FILTER;GP,DSL PRTCLTE"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280403" size="158x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FILTER;GP,DSL PRTCLTE" size="123x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FILTER;GP,DSL PRTCLTE"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280405" size="114x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="CATERPILLAR 5357856M" size="72x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "CATERPILLAR 5357856M"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280406" size="77x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="10" size="14x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 400" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "10"
+          </TEXT>
+          <GROUP name="Group 1534" size="19x18">
+            <RECTANGLE name="Rectangle 355" size="19x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+            <FRAME name="fi_7268615" size="10x10">
+              <GROUP name="Group" size="10x10">
+                <GROUP name="Group" size="10x10">
+                  <GROUP name="Group" size="10x10">
+                    <GROUP name="Group" size="10x10">
+                      <VECTOR name="Vector" size="10x10" bg="rgba(20, 99, 255, 1.00)"></VECTOR>
+                    </GROUP>
+                  </GROUP>
+                </GROUP>
+              </GROUP>
+            </FRAME>
+          </GROUP>
+        </FRAME>
+        <FRAME name="Frame 1171280407" size="127x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FI-MOEQ-KLDE-L OR2900" size="88x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FI-MOEQ-KLDE-L OR2900"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280407" size="87x47" bg="rgba(22, 22, 22, 1.00)">
+          <INSTANCE name="Component 50" size="53x18" bg="rgba(0, 81, 38, 1.00)">
+            <TEXT name="MEDIUM" size="45x14" bg="rgba(0, 180, 84, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(0, 180, 84, 1.00)">
+              "MEDIUM"
+            </TEXT>
+          </INSTANCE>
+        </FRAME>
+        <FRAME name="Frame 1171280408" size="73x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="7,845" size="30x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "7,845"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280409" size="73x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="Yes" size="18x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "Yes"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280410" size="120x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="64x28">
+            <TEXT name="23-03-2024 00:00:00" size="64x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "23-03-2024  00:00:00"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280411" size="123x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="64x28">
+            <TEXT name="27-08-2024 00:00:00" size="64x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "27-08-2024  00:00:00"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280412" size="86x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="1" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "1"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280413" size="102x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="50x14">
+            <TEXT name="$112,521" size="50x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "$112,521"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280414" size="93x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="0" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "0"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280415" size="80x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="0" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "0"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280416" size="64x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="20x14">
+            <TEXT name="845" size="20x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "845"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280417" size="82x47" bg="rgba(22, 22, 22, 1.00)">
+          <GROUP name="Group 1537" size="30x18">
+            <RECTANGLE name="Rectangle 355" size="30x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+            <GROUP name="Group" size="15x3">
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+            </GROUP>
+          </GROUP>
+        </FRAME>
+        <FRAME name="Frame 1171280419" size="208x47" bg="rgba(22, 22, 22, 1.00)">
+          <RECTANGLE name="Rectangle 337" size="151x23" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+        </FRAME>
+        <FRAME name="Frame 1171280418" size="63x47" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="20x14">
+            <TEXT name="845" size="20x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "845"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280404" size="72x47" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="18649.27" size="50x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "18649.27"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280420" size="55x48" bg="rgba(22, 22, 22, 1.00)">
+          <INSTANCE name="Checkbox" size="16x16">
+            <INSTANCE name="Checkbox" size="16x16"></INSTANCE>
+          </INSTANCE>
+        </FRAME>
+        <FRAME name="Frame 1171280421" size="55x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="2" size="7x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+            "2"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280422" size="62x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="40749189" size="53x14" bg="rgba(20, 99, 255, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(20, 99, 255, 1.00)">
+            "40749189"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280423" size="152x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FILTER;GP,DSL PRTCLTE" size="123x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FILTER;GP,DSL PRTCLTE"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280424" size="158x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FILTER;GP,DSL PRTCLTE" size="123x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FILTER;GP,DSL PRTCLTE"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280425" size="72x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="18649.27" size="50x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "18649.27"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280426" size="114x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="CATERPILLAR 5357856M" size="72x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "CATERPILLAR 5357856M"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280427" size="77x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="10" size="14x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 400" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "10"
+          </TEXT>
+          <GROUP name="Group 1534" size="19x18">
+            <RECTANGLE name="Rectangle 355" size="19x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+            <FRAME name="fi_7268615" size="10x10">
+              <GROUP name="Group" size="10x10">
+                <GROUP name="Group" size="10x10">
+                  <GROUP name="Group" size="10x10">
+                    <GROUP name="Group" size="10x10">
+                      <VECTOR name="Vector" size="10x10" bg="rgba(20, 99, 255, 1.00)"></VECTOR>
+                    </GROUP>
+                  </GROUP>
+                </GROUP>
+              </GROUP>
+            </FRAME>
+          </GROUP>
+        </FRAME>
+        <FRAME name="Frame 1171280428" size="127x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FI-MOEQ-KLDE-L OR2900" size="88x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FI-MOEQ-KLDE-L OR2900"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280429" size="87x48" bg="rgba(22, 22, 22, 1.00)">
+          <INSTANCE name="Component 50" size="53x18" bg="rgba(55, 0, 0, 1.00)">
+            <TEXT name="High" size="29x14" bg="rgba(255, 76, 76, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(255, 76, 76, 1.00)">
+              "High"
+            </TEXT>
+          </INSTANCE>
+        </FRAME>
+        <FRAME name="Frame 1171280430" size="73x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="7,845" size="30x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "7,845"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280431" size="73x48" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="Yes" size="18x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "Yes"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280432" size="120x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="64x28">
+            <TEXT name="23-03-2024 00:00:00" size="64x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "23-03-2024  00:00:00"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280433" size="123x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="64x28">
+            <TEXT name="27-08-2024 00:00:00" size="64x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "27-08-2024  00:00:00"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280434" size="86x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="1" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "1"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280435" size="102x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="50x14">
+            <TEXT name="$112,521" size="50x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "$112,521"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280436" size="93x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="0" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "0"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280437" size="80x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="0" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "0"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280438" size="64x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="20x14">
+            <TEXT name="845" size="20x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "845"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280439" size="63x48" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="20x14">
+            <TEXT name="845" size="20x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "845"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280440" size="82x48" bg="rgba(22, 22, 22, 1.00)">
+          <GROUP name="Group 1537" size="30x18">
+            <RECTANGLE name="Rectangle 355" size="30x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+            <GROUP name="Group" size="15x3">
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+            </GROUP>
+          </GROUP>
+        </FRAME>
+        <FRAME name="Frame 1171280441" size="208x48" bg="rgba(22, 22, 22, 1.00)">
+          <RECTANGLE name="Rectangle 337" size="151x23" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+        </FRAME>
+        <FRAME name="Frame 1171280442" size="55x50" bg="rgba(22, 22, 22, 1.00)">
+          <INSTANCE name="Checkbox" size="16x16">
+            <INSTANCE name="Checkbox" size="16x16"></INSTANCE>
+          </INSTANCE>
+        </FRAME>
+        <FRAME name="Frame 1171280443" size="55x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="3" size="7x14" bg="rgba(164, 164, 164, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(164, 164, 164, 1.00)">
+            "3"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280444" size="62x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="40749189" size="53x14" bg="rgba(20, 99, 255, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(20, 99, 255, 1.00)">
+            "40749189"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280445" size="152x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FILTER;GP,DSL PRTCLTE" size="123x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FILTER;GP,DSL PRTCLTE"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280446" size="158x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FILTER;GP,DSL PRTCLTE" size="123x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FILTER;GP,DSL PRTCLTE"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280447" size="72x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="18649.27" size="50x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "18649.27"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280448" size="114x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="CATERPILLAR 5357856M" size="72x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "CATERPILLAR 5357856M"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280450" size="127x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="FI-MOEQ-KLDE-L OR2900" size="88x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "FI-MOEQ-KLDE-L OR2900"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280451" size="87x50" bg="rgba(22, 22, 22, 1.00)">
+          <INSTANCE name="Component 50" size="53x18" bg="rgba(55, 0, 0, 1.00)">
+            <TEXT name="High" size="29x14" bg="rgba(255, 76, 76, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(255, 76, 76, 1.00)">
+              "High"
+            </TEXT>
+          </INSTANCE>
+        </FRAME>
+        <FRAME name="Frame 1171280452" size="73x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="7,845" size="30x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "7,845"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280453" size="73x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="Yes" size="18x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "Yes"
+          </TEXT>
+        </FRAME>
+        <FRAME name="Frame 1171280454" size="120x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="64x28">
+            <TEXT name="23-03-2024 00:00:00" size="64x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "23-03-2024  00:00:00"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280455" size="123x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="64x28">
+            <TEXT name="27-08-2024 00:00:00" size="64x28" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "27-08-2024  00:00:00"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280456" size="86x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="1" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "1"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280457" size="102x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="50x14">
+            <TEXT name="$112,521" size="50x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "$112,521"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280458" size="93x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="0" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "0"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280459" size="80x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="7x14">
+            <TEXT name="0" size="7x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "0"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280460" size="64x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="20x14">
+            <TEXT name="845" size="20x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "845"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280461" size="63x50" bg="rgba(22, 22, 22, 1.00)">
+          <FRAME name="Frame 1171280411" size="20x14">
+            <TEXT name="845" size="20x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 500" size="11px" color="rgba(230, 230, 230, 1.00)">
+              "845"
+            </TEXT>
+          </FRAME>
+        </FRAME>
+        <FRAME name="Frame 1171280462" size="82x50" bg="rgba(22, 22, 22, 1.00)">
+          <GROUP name="Group 1537" size="30x18">
+            <RECTANGLE name="Rectangle 355" size="30x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+            <GROUP name="Group" size="15x3">
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+              <VECTOR name="Vector" size="3x3" bg="rgba(127, 126, 126, 1.00)"></VECTOR>
+            </GROUP>
+          </GROUP>
+        </FRAME>
+        <FRAME name="Frame 1171280463" size="208x50" bg="rgba(22, 22, 22, 1.00)">
+          <RECTANGLE name="Rectangle 337" size="151x23" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+        </FRAME>
+        <FRAME name="Frame 1171280449" size="77x50" bg="rgba(22, 22, 22, 1.00)">
+          <TEXT name="10" size="14x14" bg="rgba(230, 230, 230, 1.00)" font="IBM Plex Sans 400" size="11px" color="rgba(230, 230, 230, 1.00)">
+            "10"
+          </TEXT>
+          <GROUP name="Group 1534" size="19x18">
+            <RECTANGLE name="Rectangle 355" size="19x18" bg="rgba(13, 13, 13, 1.00)"></RECTANGLE>
+            <FRAME name="fi_7268615" size="10x10">
+              <GROUP name="Group" size="10x10">
+                <GROUP name="Group" size="10x10">
+                  <GROUP name="Group" size="10x10">
+                    <GROUP name="Group" size="10x10">
+                      <VECTOR name="Vector" size="10x10" bg="rgba(20, 99, 255, 1.00)"></VECTOR>
+                    </GROUP>
+                  </GROUP>
+                </GROUP>
+              </GROUP>
+            </FRAME>
+          </GROUP>
+        </FRAME>
+      </FRAME>
+    </FRAME>
+  </FRAME>
+</FRAME>

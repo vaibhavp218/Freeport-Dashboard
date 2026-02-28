@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freeport — Material Evaluation Dashboard</title>
+    <meta name="description"
+        content="Material Evaluation Dashboard for Freeport Indonesia — MDG Request evaluation and duplicate analysis.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- ═══════ SIDEBAR ═══════ -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-logo">
+                <div class="logo-mark">
+                    <svg width="36" height="36" viewBox="0 0 36 36" fill="none">
+                        <rect width="36" height="36" rx="6" fill="url(#logoGrad)" />
+                        <path d="M10 18L18 10L26 18L18 26Z" fill="rgba(255,255,255,.85)" />
+                        <defs>
+                            <linearGradient id="logoGrad" x1="0" y1="0" x2="36" y2="36">
+                                <stop stop-color="#2ecdc0" />
+                                <stop offset="1" stop-color="#007b6b" />
+                            </linearGradient>
+                        </defs>
+                    </svg>
+                </div>
+                <span class="logo-sub">By</span>
+                <div class="logo-bars">
+                    <span class="bar" style="height:11px"></span>
+                    <span class="bar" style="height:6px"></span>
+                    <span class="bar" style="height:11px"></span>
+                </div>
+            </div>
+
+            <nav class="sidebar-nav">
+                <a href="#" class="nav-item active" title="Dashboard"><i class="ri-dashboard-fill"></i></a>
+                <a href="#" class="nav-item" title="Requests"><i class="ri-file-list-3-line"></i></a>
+                <a href="#" class="nav-item" title="Inventory"><i class="ri-stack-line"></i></a>
+                <a href="#" class="nav-item" title="Duplicates"><i class="ri-file-copy-2-line"></i></a>
+                <a href="#" class="nav-item" title="Reports"><i class="ri-bar-chart-box-line"></i></a>
+                <a href="#" class="nav-item" title="Analytics"><i class="ri-pie-chart-line"></i></a>
+                <a href="#" class="nav-item" title="Equipment"><i class="ri-tools-line"></i></a>
+                <a href="#" class="nav-item" title="Users"><i class="ri-user-line"></i></a>
+                <a href="#" class="nav-item" title="Messages"><i class="ri-mail-line"></i></a>
+                <a href="#" class="nav-item" title="Approvals"><i class="ri-checkbox-circle-line"></i></a>
+                <a href="#" class="nav-item" title="Vendors"><i class="ri-building-2-line"></i></a>
+                <a href="#" class="nav-item" title="Settings"><i class="ri-settings-4-line"></i></a>
+            </nav>
+        </aside>
+
+        <!-- ═══════ MAIN CONTENT ═══════ -->
+        <main class="main-content">
+            <!-- Top Header / Breadcrumb Bar -->
+            <header class="top-header" id="topHeader">
+                <div class="breadcrumbs">
+                    <span class="crumb">Dashboard</span>
+                    <i class="ri-arrow-right-s-line sep"></i>
+                    <span class="crumb">Material Evaluation</span>
+                    <i class="ri-arrow-right-s-line sep"></i>
+                    <span class="crumb active">40111254101</span>
+                </div>
+                <div class="header-actions">
+                    <button class="action-btn" title="Search"><i class="ri-search-line"></i></button>
+                    <button class="action-btn" title="Theme"><i class="ri-sun-line"></i></button>
+                    <button class="action-btn" title="Notifications"><i class="ri-notification-3-line"></i></button>
+                    <div class="avatar" title="User"></div>
+                </div>
+            </header>
+
+            <!-- Dashboard Area — No Scroll -->
+            <div class="dashboard-scroll-area">
+                <!-- ═══════ TOP PANELS ROW ═══════ -->
+                <section class="top-panels">
+
+                    <!-- Panel 1: Material Details Card -->
+                    <div class="panel panel-details">
+                        <div class="panel-header-bar">
+                            <div class="label-chip">MDG REQUEST NO</div>
+                            <h2 class="req-number">REQ011254101</h2>
+                        </div>
+                        <div class="panel-body detail-grid">
+                            <div class="detail-item span-2">
+                                <span class="dlabel">Material Short Desc.</span>
+                                <span class="dvalue">R2900JLK CAT LOADER LD-710919</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="dlabel">Unit Price ($)</span>
+                                <span class="dvalue">$5,212</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="dlabel">Set Size (Qty)</span>
+                                <span class="dvalue">5,820</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="dlabel">Planned Delivery Days</span>
+                                <span class="dvalue">35 Days</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="dlabel">Criticality</span>
+                                <span class="dvalue">C</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="dlabel">Equipment</span>
+                                <span class="dvalue equipment-val">10 <a href="#" class="eq-link"><i
+                                            class="ri-share-box-line"></i></a></span>
+                            </div>
+                            <div class="detail-item span-2">
+                                <span class="dlabel">Material Long Desc.</span>
+                                <span class="dvalue">FILTER TYPE:GP ADDITIONAL...</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="dlabel">Manufacturer Part Number</span>
+                                <span class="dvalue">PKB-uubb-4427</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="dlabel">Manufacturer</span>
+                                <span class="dvalue">Hiveless Indonesia</span>
+                            </div>
+                            <div class="detail-item span-2">
+                                <span class="dlabel">Vendor</span>
+                                <span class="dvalue">Indonesia Metallurgical Traders Pte.</span>
+                            </div>
+                            <div class="detail-item span-2">
+                                <span class="dlabel">Functional Location</span>
+                                <span class="dvalue">Grasberg Block Cave</span>
+                            </div>
+                            <div class="detail-item span-2">
+                                <span class="dlabel">Comments</span>
+                                <span class="dvalue">We need to expedite this order immediately</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Panel 2: Model Recommendation Card -->
+                    <div class="panel panel-recommendation">
+                        <div class="panel-body">
+                            <div class="rec-row">
+                                <span class="dlabel">Material Category</span>
+                                <span class="dvalue">Slow Moving</span>
+                            </div>
+                            <div class="rec-row">
+                                <span class="dlabel">Material Criticality (User)</span>
+                                <span class="dvalue">D</span>
+                            </div>
+                            <div class="rec-row">
+                                <span class="dlabel">Model Recommendation</span>
+                                <div class="dropdown-sim" id="modelRecDropdown">
+                                    <span>order as required</span>
+                                    <i class="ri-arrow-down-s-line"></i>
+                                </div>
+                            </div>
+                            <div class="rec-row">
+                                <span class="dlabel">Final Decision</span>
+                                <div class="dropdown-sim" id="finalDecisionDropdown">
+                                    <span>order as required</span>
+                                    <i class="ri-arrow-down-s-line"></i>
+                                </div>
+                            </div>
+
+                            <div class="divider"></div>
+
+                            <!-- Comparison Columns -->
+                            <div class="comparison-area">
+                                <!-- User Input Column -->
+                                <div class="comp-col">
+                                    <div class="col-label"><i class="ri-user-line icon-blue"></i> User Input</div>
+                                    <div class="col-fields">
+                                        <div class="field-group">
+                                            <label>ROP</label>
+                                            <input type="number" value="0" id="userRop">
+                                        </div>
+                                        <div class="field-group">
+                                            <label>MAX</label>
+                                            <input type="number" value="0" id="userMax">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Model Suggested Column -->
+                                <div class="comp-col">
+                                    <div class="col-label"><i class="ri-robot-line icon-blue"></i> Model Suggested</div>
+                                    <div class="col-fields suggestion">
+                                        <span class="sug-val">445</span>
+                                        <span class="sug-val">5,441</span>
+                                    </div>
+                                </div>
+
+                                <!-- Alternate Column -->
+                                <div class="comp-col">
+                                    <div class="col-label"><i class="ri-arrow-left-right-line icon-blue"></i> Alternate
+                                    </div>
+                                    <div class="col-fields">
+                                        <div class="field-group">
+                                            <input type="number" value="0" id="altRop">
+                                        </div>
+                                        <div class="field-group">
+                                            <input type="number" value="0" id="altMax">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="rec-row remark-row">
+                                <span class="dlabel">Remark</span>
+                                <input type="text" class="remark-input" placeholder="Enter remark..." id="remarkInput">
+                            </div>
+
+                            <div class="action-buttons">
+                                <button class="btn btn-primary" id="btnAccept">Accept</button>
+                                <button class="btn btn-outline" id="btnReset">Reset</button>
+                                <button class="btn btn-outline" id="btnCalculate">Calculate</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Panel 3: Last Used Data Chart -->
+                    <div class="panel panel-chart">
+                        <h3 class="panel-title">Last Used Data</h3>
+                        <div class="chart-wrapper">
+                            <canvas id="usageChart"></canvas>
+                        </div>
+                    </div>
+
+                </section>
+
+                <!-- ═══════ TABLES — SIDE BY SIDE ═══════ -->
+                <div class="tables-bottom">
+
+                    <!-- ═══════ TABLE 1: POTENTIAL DUPLICATES ═══════ -->
+                    <section class="panel panel-table" id="tableDuplicates">
+                        <div class="table-toolbar">
+                            <div class="title-group">
+                                <h3 class="panel-title">Potential Duplicates</h3>
+                                <span class="badge">17</span>
+                            </div>
+                            <div class="table-actions">
+                                <button class="tbar-btn"><i class="ri-filter-3-line"></i> Filter</button>
+                                <button class="tbar-btn"><i class="ri-sort-desc"></i> Sort By</button>
+                                <button class="tbar-btn"><i class="ri-grid-line"></i> Edit table</button>
+                                <button class="tbar-btn icon-only"><i class="ri-more-2-fill"></i></button>
+                            </div>
+                        </div>
+                        <div class="table-scroll">
+                            <table id="duplicatesTable">
+                                <thead>
+                                    <tr>
+                                        <th class="col-chk"><input type="checkbox" id="chkAllDup"></th>
+                                        <th>S.No</th>
+                                        <th>MAT Code</th>
+                                        <th>Unit Price($)</th>
+                                        <th>Material Description</th>
+                                        <th>Long Desc</th>
+                                        <th>Manufacturer & Part Number</th>
+                                        <th>Linked Equipments</th>
+                                        <th>Linked Functional Location</th>
+                                        <th>Movement Status</th>
+                                        <th>Annual Usage</th>
+                                        <th>Potential Obsolete</th>
+                                        <th>Created On</th>
+                                        <th>Last Issuance Date</th>
+                                        <th>Current SOH</th>
+                                        <th>Inventory Value</th>
+                                        <th>Current Transit</th>
+                                        <th>Current PO</th>
+                                        <th>ROP</th>
+                                        <th>MAX</th>
+                                        <th>Is Duplicate</th>
+                                        <th>Remarks</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="col-chk"><input type="checkbox"></td>
+                                        <td>1</td>
+                                        <td class="text-link">40749189</td>
+                                        <td>18649.27</td>
+                                        <td>FILTER;GP,DSL PRTCLTE</td>
+                                        <td>FILTER;GP,DSL PRTCLTE</td>
+                                        <td>CATERPILLAR<br>5357856M</td>
+                                        <td class="equip-cell">10 <i class="ri-share-box-line link-icon"></i></td>
+                                        <td>FI-MOEQ-KLDE-L<br>OR2900</td>
+                                        <td><span class="pill pill-green">MEDIUM</span></td>
+                                        <td>7,845</td>
+                                        <td>Yes</td>
+                                        <td>23-03-2024<br>00:00:00</td>
+                                        <td>27-08-2024<br>00:00:00</td>
+                                        <td>1</td>
+                                        <td>$112,521</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>845</td>
+                                        <td>845</td>
+                                        <td><span class="pill-action"><i class="ri-more-fill"></i></span></td>
+                                        <td>
+                                            <div class="remark-cell"></div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="col-chk"><input type="checkbox"></td>
+                                        <td>2</td>
+                                        <td class="text-link">40749189</td>
+                                        <td>18649.27</td>
+                                        <td>FILTER;GP,DSL PRTCLTE</td>
+                                        <td>FILTER;GP,DSL PRTCLTE</td>
+                                        <td>CATERPILLAR<br>5357856M</td>
+                                        <td class="equip-cell">10 <i class="ri-share-box-line link-icon"></i></td>
+                                        <td>FI-MOEQ-KLDE-L<br>OR2900</td>
+                                        <td><span class="pill pill-red">High</span></td>
+                                        <td>7,845</td>
+                                        <td>Yes</td>
+                                        <td>23-03-2024<br>00:00:00</td>
+                                        <td>27-08-2024<br>00:00:00</td>
+                                        <td>1</td>
+                                        <td>$112,521</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>845</td>
+                                        <td>845</td>
+                                        <td><span class="pill-action"><i class="ri-more-fill"></i></span></td>
+                                        <td>
+                                            <div class="remark-cell"></div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="col-chk"><input type="checkbox"></td>
+                                        <td>3</td>
+                                        <td class="text-link">40749189</td>
+                                        <td>18649.27</td>
+                                        <td>FILTER;GP,DSL PRTCLTE</td>
+                                        <td>FILTER;GP,DSL PRTCLTE</td>
+                                        <td>CATERPILLAR<br>5357856M</td>
+                                        <td class="equip-cell">10 <i class="ri-share-box-line link-icon"></i></td>
+                                        <td>FI-MOEQ-KLDE-L<br>OR2900</td>
+                                        <td><span class="pill pill-red">High</span></td>
+                                        <td>7,845</td>
+                                        <td>Yes</td>
+                                        <td>23-03-2024<br>00:00:00</td>
+                                        <td>27-08-2024<br>00:00:00</td>
+                                        <td>1</td>
+                                        <td>$112,521</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>845</td>
+                                        <td>845</td>
+                                        <td><span class="pill-action"><i class="ri-more-fill"></i></span></td>
+                                        <td>
+                                            <div class="remark-cell"></div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </section>
+
+                    <!-- ═══════ TABLE 2: SIMILAR MATERIAL - EQUIPMENT LINKS ═══════ -->
+                    <section class="panel panel-table" id="tableEquipment">
+                        <div class="table-toolbar">
+                            <div class="title-group">
+                                <h3 class="panel-title">Similar Material - Equipment Links</h3>
+                                <span class="badge">17</span>
+                            </div>
+                            <div class="table-actions">
+                                <button class="tbar-btn"><i class="ri-filter-3-line"></i> Filter</button>
+                                <button class="tbar-btn"><i class="ri-sort-desc"></i> Sort By</button>
+                                <button class="tbar-btn"><i class="ri-grid-line"></i> Edit table</button>
+                                <button class="tbar-btn icon-only"><i class="ri-more-2-fill"></i></button>
+                            </div>
+                        </div>
+                        <div class="table-scroll">
+                            <table id="equipmentTable">
+                                <thead>
+                                    <tr>
+                                        <th class="col-chk"><input type="checkbox" id="chkAllEquip"></th>
+                                        <th>S.No</th>
+                                        <th>MAT Code</th>
+                                        <th>Unit Price($)</th>
+                                        <th>Material Description</th>
+                                        <th>Long Desc</th>
+                                        <th>Manufacturer & Part Number</th>
+                                        <th>Linked Equipments</th>
+                                        <th>Linked Functional Location</th>
+                                        <th>Movement Status</th>
+                                        <th>Annual Usage</th>
+                                        <th>Potential Obsolete</th>
+                                        <th>Created On</th>
+                                        <th>Last Issuance Date</th>
+                                        <th>Current SOH</th>
+                                        <th>Inventory Value</th>
+                                        <th>Current Transit</th>
+                                        <th>Current PO</th>
+                                        <th>ROP</th>
+                                        <th>MAX</th>
+                                        <th>Is Duplicate</th>
+                                        <th>Remarks</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="col-chk"><input type="checkbox"></td>
+                                        <td>1</td>
+                                        <td class="text-link">40749189</td>
+                                        <td>18649.27</td>
+                                        <td>FILTER;GP,DSL PRTCLTE</td>
+                                        <td>FILTER;GP,DSL PRTCLTE</td>
+                                        <td>CATERPILLAR<br>5357856M</td>
+                                        <td class="equip-cell">10 <i class="ri-share-box-line link-icon"></i></td>
+                                        <td>FI-MOEQ-KLDE-L<br>OR2900</td>
+                                        <td><span class="pill pill-green">MEDIUM</span></td>
+                                        <td>7,845</td>
+                                        <td>Yes</td>
+                                        <td>23-03-2024<br>00:00:00</td>
+                                        <td>27-08-2024<br>00:00:00</td>
+                                        <td>1</td>
+                                        <td>$112,521</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>845</td>
+                                        <td>845</td>
+                                        <td><span class="pill-action"><i class="ri-more-fill"></i></span></td>
+                                        <td>
+                                            <div class="remark-cell"></div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="col-chk"><input type="checkbox"></td>
+                                        <td>2</td>
+                                        <td class="text-link">40749189</td>
+                                        <td>18649.27</td>
+                                        <td>FILTER;GP,DSL PRTCLTE</td>
+                                        <td>FILTER;GP,DSL PRTCLTE</td>
+                                        <td>CATERPILLAR<br>5357856M</td>
+                                        <td class="equip-cell">10 <i class="ri-share-box-line link-icon"></i></td>
+                                        <td>FI-MOEQ-KLDE-L<br>OR2900</td>
+                                        <td><span class="pill pill-red">High</span></td>
+                                        <td>7,845</td>
+                                        <td>Yes</td>
+                                        <td>23-03-2024<br>00:00:00</td>
+                                        <td>27-08-2024<br>00:00:00</td>
+                                        <td>1</td>
+                                        <td>$112,521</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>845</td>
+                                        <td>845</td>
+                                        <td><span class="pill-action"><i class="ri-more-fill"></i></span></td>
+                                        <td>
+                                            <div class="remark-cell"></div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="col-chk"><input type="checkbox"></td>
+                                        <td>3</td>
+                                        <td class="text-link">40749189</td>
+                                        <td>18649.27</td>
+                                        <td>FILTER;GP,DSL PRTCLTE</td>
+                                        <td>FILTER;GP,DSL PRTCLTE</td>
+                                        <td>CATERPILLAR<br>5357856M</td>
+                                        <td class="equip-cell">10 <i class="ri-share-box-line link-icon"></i></td>
+                                        <td>FI-MOEQ-KLDE-L<br>OR2900</td>
+                                        <td><span class="pill pill-red">High</span></td>
+                                        <td>7,845</td>
+                                        <td>Yes</td>
+                                        <td>23-03-2024<br>00:00:00</td>
+                                        <td>27-08-2024<br>00:00:00</td>
+                                        <td>1</td>
+                                        <td>$112,521</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>845</td>
+                                        <td>845</td>
+                                        <td><span class="pill-action"><i class="ri-more-fill"></i></span></td>
+                                        <td>
+                                            <div class="remark-cell"></div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </section>
+
+                </div><!-- /tables-bottom -->
+            </div><!-- /dashboard-area -->
+        </main>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
