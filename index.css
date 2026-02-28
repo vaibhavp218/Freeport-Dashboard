@@ -787,52 +787,633 @@ tbody tr:hover td {
     border-radius: var(--rad-sm);
 }
 
-/* ═══════════ RESPONSIVE ═══════════ */
-@media (max-width: 1300px) {
-    .dashboard-scroll-area {
-        overflow-y: auto;
+/* ═══════════ RESPONSIVE — LAPTOP / DESKTOP — NO SCROLL ═══════════ */
+
+/* ── Medium laptops (≤1600px, e.g. 1536×864 / 1440×900) ── */
+@media (max-height: 900px),
+(max-width: 1600px) {
+    body {
+        font-size: 10px;
     }
 
-    .top-panels {
-        grid-template-columns: 1fr 1fr;
-        max-height: none;
+    .sidebar {
+        width: 44px;
+        min-width: 44px;
+        padding: 6px 0;
     }
 
-    .panel-chart {
-        grid-column: 1 / -1;
-        min-height: 250px;
+    .nav-item {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
     }
 
-    .tables-bottom {
-        min-height: 500px;
-        overflow: visible;
-    }
-
-    .panel-table {
-        min-height: 250px;
-    }
-}
-
-@media (max-width: 900px) {
-    .top-panels {
-        grid-template-columns: 1fr;
-    }
-}
-
-@media (max-width: 600px) {
-    .detail-grid {
-        grid-template-columns: 1fr;
-    }
-
-    .comparison-area {
-        flex-direction: column;
+    .logo-mark svg {
+        width: 20px;
+        height: 20px;
     }
 
     .top-header {
-        flex-direction: column;
-        height: auto;
-        padding: 8px 16px;
-        gap: 8px;
+        height: 30px;
+        min-height: 30px;
+        padding: 0 10px;
+    }
+
+    .breadcrumbs {
+        font-size: 10px;
+    }
+
+    .action-btn {
+        font-size: 13px;
+    }
+
+    .avatar {
+        width: 18px;
+        height: 18px;
+    }
+
+    .dashboard-scroll-area {
+        padding: 6px 8px;
+        gap: 6px;
+    }
+
+    .top-panels {
+        gap: 6px;
+        max-height: 36vh;
+        min-height: 140px;
+    }
+
+    .panel-header-bar {
+        padding: 4px 8px;
+    }
+
+    .panel-body {
+        padding: 4px 8px 6px;
+    }
+
+    .req-number {
+        font-size: 11px;
+    }
+
+    .dlabel {
+        font-size: 9px;
+    }
+
+    .dvalue {
+        font-size: 9px;
+    }
+
+    .label-chip {
+        font-size: 9px;
+        padding: 1px 5px;
+    }
+
+    .dropdown-sim {
+        font-size: 9px;
+        padding: 1px 6px;
+    }
+
+    .field-group input {
+        padding: 2px 3px;
+        font-size: 10px;
+    }
+
+    .field-group label {
+        font-size: 9px;
+    }
+
+    .col-label {
+        font-size: 9px;
+        margin-bottom: 2px;
+    }
+
+    .sug-val {
+        font-size: 10px;
+    }
+
+    .remark-input {
+        font-size: 10px;
+        padding: 2px 6px;
+    }
+
+    .btn {
+        padding: 3px 5px;
+        font-size: 10px;
+    }
+
+    .panel-title {
+        font-size: 10px;
+    }
+
+    .panel-chart {
+        padding: 6px 8px;
+    }
+
+    .divider {
+        margin: 4px 0;
+    }
+
+    .comparison-area {
+        margin-bottom: 4px;
+    }
+
+    .suggestion {
+        height: 22px;
+        margin-top: 8px;
+    }
+
+    .tables-bottom {
+        gap: 3px;
+    }
+
+    .panel-table {
+        padding: 4px 8px 6px;
+    }
+
+    .table-toolbar {
+        margin-bottom: 3px;
+    }
+
+    .badge {
+        font-size: 9px;
+        padding: 0px 5px;
+    }
+
+    .tbar-btn {
+        font-size: 9px;
+        padding: 1px 6px;
+    }
+
+    thead th {
+        font-size: 9px;
+        padding: 2px 5px;
+    }
+
+    tbody td {
+        font-size: 9px;
+        padding: 2px 5px;
+    }
+
+    .pill {
+        font-size: 9px;
+        padding: 0px 5px;
+    }
+
+    .remark-cell {
+        width: 80px;
+        height: 16px;
+    }
+}
+
+/* ── Smaller laptops (≤1400px, e.g. 1366×768) ── */
+@media (max-height: 800px),
+(max-width: 1400px) {
+    body {
+        font-size: 9px;
+    }
+
+    .sidebar {
+        width: 38px;
+        min-width: 38px;
+        padding: 4px 0;
+    }
+
+    .sidebar-logo {
+        margin-bottom: 6px;
+    }
+
+    .logo-mark svg {
+        width: 18px;
+        height: 18px;
+    }
+
+    .logo-sub {
+        font-size: 7px;
+    }
+
+    .nav-item {
+        width: 26px;
+        height: 26px;
+        font-size: 12px;
+    }
+
+    .top-header {
+        height: 26px;
+        min-height: 26px;
+        padding: 0 8px;
+    }
+
+    .breadcrumbs {
+        font-size: 9px;
+        gap: 4px;
+    }
+
+    .action-btn {
+        font-size: 12px;
+    }
+
+    .avatar {
+        width: 16px;
+        height: 16px;
+    }
+
+    .dashboard-scroll-area {
+        padding: 4px 6px;
+        gap: 4px;
+    }
+
+    .top-panels {
+        gap: 4px;
+        max-height: 34vh;
+        min-height: 120px;
+    }
+
+    .panel-header-bar {
+        padding: 3px 6px;
+        gap: 5px;
+    }
+
+    .panel-body {
+        padding: 3px 6px 4px;
+    }
+
+    .detail-grid {
+        gap: 1px 8px;
+    }
+
+    .req-number {
+        font-size: 10px;
+    }
+
+    .dlabel {
+        font-size: 8px;
+    }
+
+    .dvalue {
+        font-size: 8px;
+    }
+
+    .label-chip {
+        font-size: 8px;
+        padding: 1px 4px;
+    }
+
+    .dropdown-sim {
+        font-size: 8px;
+        padding: 1px 5px;
+    }
+
+    .rec-row {
+        margin-bottom: 2px;
+    }
+
+    .field-group input {
+        padding: 1px 2px;
+        font-size: 9px;
+    }
+
+    .field-group label {
+        font-size: 8px;
+    }
+
+    .col-label {
+        font-size: 8px;
+        margin-bottom: 1px;
+    }
+
+    .sug-val {
+        font-size: 9px;
+    }
+
+    .remark-input {
+        font-size: 9px;
+        padding: 1px 4px;
+    }
+
+    .btn {
+        padding: 2px 4px;
+        font-size: 9px;
+    }
+
+    .panel-title {
+        font-size: 9px;
+    }
+
+    .panel-chart {
+        padding: 4px 6px;
+    }
+
+    .chart-wrapper {
+        margin-top: 2px;
+    }
+
+    .divider {
+        margin: 3px 0;
+    }
+
+    .comparison-area {
+        gap: 4px;
+        margin-bottom: 3px;
+    }
+
+    .suggestion {
+        height: 18px;
+        margin-top: 4px;
+    }
+
+    .action-buttons {
+        gap: 4px;
+    }
+
+    .tables-bottom {
+        gap: 2px;
+    }
+
+    .panel-table {
+        padding: 3px 6px 4px;
+    }
+
+    .table-toolbar {
+        margin-bottom: 2px;
+    }
+
+    .badge {
+        font-size: 8px;
+        padding: 0px 4px;
+    }
+
+    .tbar-btn {
+        font-size: 8px;
+        padding: 1px 4px;
+        gap: 2px;
+    }
+
+    thead th {
+        font-size: 8px;
+        padding: 2px 4px;
+    }
+
+    tbody td {
+        font-size: 8px;
+        padding: 2px 4px;
+        line-height: 1.15;
+    }
+
+    .pill {
+        font-size: 8px;
+        padding: 0px 4px;
+    }
+
+    .remark-cell {
+        width: 60px;
+        height: 14px;
+    }
+
+    .pill-action {
+        width: 20px;
+        height: 12px;
+        font-size: 8px;
+    }
+
+    table {
+        min-width: 1100px;
+    }
+}
+
+/* ── Compact laptops (≤1280px, e.g. 1280×720) ── */
+@media (max-height: 720px),
+(max-width: 1280px) {
+    body {
+        font-size: 8px;
+    }
+
+    .sidebar {
+        width: 34px;
+        min-width: 34px;
+        padding: 3px 0;
+    }
+
+    .logo-mark svg {
+        width: 16px;
+        height: 16px;
+    }
+
+    .logo-sub {
+        font-size: 6px;
+    }
+
+    .sidebar-logo {
+        margin-bottom: 4px;
+    }
+
+    .nav-item {
+        width: 24px;
+        height: 24px;
+        font-size: 11px;
+    }
+
+    .top-header {
+        height: 22px;
+        min-height: 22px;
+        padding: 0 6px;
+    }
+
+    .breadcrumbs {
+        font-size: 8px;
+        gap: 3px;
+    }
+
+    .breadcrumbs .sep {
+        font-size: 10px;
+    }
+
+    .action-btn {
+        font-size: 11px;
+    }
+
+    .header-actions {
+        gap: 6px;
+    }
+
+    .avatar {
+        width: 14px;
+        height: 14px;
+    }
+
+    .dashboard-scroll-area {
+        padding: 3px 5px;
+        gap: 3px;
+    }
+
+    .top-panels {
+        gap: 3px;
+        max-height: 32vh;
+        min-height: 100px;
+    }
+
+    .panel {
+        border-radius: var(--rad-md);
+    }
+
+    .panel-header-bar {
+        padding: 2px 5px;
+        gap: 4px;
+    }
+
+    .panel-body {
+        padding: 2px 5px 3px;
+    }
+
+    .detail-grid {
+        gap: 0px 6px;
+    }
+
+    .req-number {
+        font-size: 9px;
+    }
+
+    .dlabel {
+        font-size: 7px;
+    }
+
+    .dvalue {
+        font-size: 7.5px;
+    }
+
+    .label-chip {
+        font-size: 7px;
+        padding: 0px 3px;
+    }
+
+    .dropdown-sim {
+        font-size: 7px;
+        padding: 0px 4px;
+    }
+
+    .rec-row {
+        margin-bottom: 1px;
+    }
+
+    .field-group input {
+        padding: 1px 2px;
+        font-size: 8px;
+    }
+
+    .field-group label {
+        font-size: 7px;
+    }
+
+    .col-label {
+        font-size: 7px;
+    }
+
+    .sug-val {
+        font-size: 8px;
+    }
+
+    .remark-input {
+        font-size: 8px;
+        padding: 1px 3px;
+    }
+
+    .btn {
+        padding: 2px 3px;
+        font-size: 8px;
+    }
+
+    .panel-title {
+        font-size: 8px;
+    }
+
+    .panel-chart {
+        padding: 3px 5px;
+    }
+
+    .chart-wrapper {
+        margin-top: 1px;
+    }
+
+    .divider {
+        margin: 2px 0;
+    }
+
+    .comparison-area {
+        gap: 3px;
+        margin-bottom: 2px;
+    }
+
+    .suggestion {
+        height: 16px;
+        margin-top: 2px;
+    }
+
+    .action-buttons {
+        gap: 3px;
+    }
+
+    .tables-bottom {
+        gap: 2px;
+    }
+
+    .panel-table {
+        padding: 2px 5px 3px;
+    }
+
+    .table-toolbar {
+        margin-bottom: 1px;
+    }
+
+    .badge {
+        font-size: 7px;
+    }
+
+    .tbar-btn {
+        font-size: 7px;
+        padding: 1px 3px;
+        gap: 2px;
+    }
+
+    thead th {
+        font-size: 7px;
+        padding: 1px 3px;
+    }
+
+    tbody td {
+        font-size: 7px;
+        padding: 1px 3px;
+        line-height: 1.1;
+    }
+
+    .pill {
+        font-size: 7px;
+        padding: 0px 3px;
+    }
+
+    .remark-cell {
+        width: 50px;
+        height: 12px;
+    }
+
+    .pill-action {
+        width: 18px;
+        height: 10px;
+        font-size: 7px;
+    }
+
+    table {
+        min-width: 900px;
+    }
+
+    .eq-link {
+        font-size: 9px;
+    }
+
+    .icon-blue {
+        font-size: 10px;
+    }
+
+    .link-icon {
+        font-size: 9px;
     }
 }
 
